@@ -70,8 +70,12 @@
     <Content Include="Common\initShaders.js" />
     <Content Include="Common\MV.js" />
     <Content Include="Common\webgl-utils.js" />
-    <Content Include="SphereMap.html" />
-    <Content Include="SphereMap.js" />
+    <Content Include="Images\earth.png" />
+    <Content Include="Images\jupiter.png" />
+    <Content Include="Images\mars.png" />
+    <Content Include="Images\moon.png" />
+    <Content Include="PlanetShader.html" />
+    <Content Include="PlanetShader.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
